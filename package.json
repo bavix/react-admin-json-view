@@ -1,10 +1,10 @@
 {
   "name": "@bavix/react-admin-json-view",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "JSON field and input for react-admin.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MrHertal/react-admin-json-view.git"
+    "url": "git+https://github.com/bavix/react-admin-json-view.git"
   },
   "main": "build/index.js",
   "module": "build/index.es.js",
