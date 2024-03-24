@@ -1,5 +1,17 @@
 # Changelog
 
+## v2.0.2 - 2024-03-23
+
+### What's Changed
+
+* [ImgBot] Optimize images by [@imgbot](https://github.com/imgbot) in https://github.com/bavix/react-admin-json-view/pull/6
+
+### New Contributors
+
+* [@imgbot](https://github.com/imgbot) made their first contribution in https://github.com/bavix/react-admin-json-view/pull/6
+
+**Full Changelog**: https://github.com/bavix/react-admin-json-view/compare/v2.0.1...v2.0.2
+
 ## v2.0.1 - 2024-03-19
 
 ### What's Changed
