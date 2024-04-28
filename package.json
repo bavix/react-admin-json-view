@@ -1,6 +1,6 @@
 {
   "name": "@bavix/react-admin-json-view",
-  "version": "2.2.2",
+  "version": "2.1.2",
   "description": "JSON field and input for react-admin.",
   "repository": {
     "type": "git",
