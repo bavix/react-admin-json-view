@@ -1,5 +1,13 @@
 # Changelog
 
+## v2.1.0 - 2024-04-28
+
+### What's Changed
+
+* react-dom fix by [@rez1dent3](https://github.com/rez1dent3) in https://github.com/bavix/react-admin-json-view/pull/7
+
+**Full Changelog**: https://github.com/bavix/react-admin-json-view/compare/v2.0.2...v2.1.0
+
 ## v2.0.2 - 2024-03-23
 
 ### What's Changed
