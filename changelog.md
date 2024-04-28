@@ -1,5 +1,13 @@
 # Changelog
 
+## v2.1.1 - 2024-04-28
+
+### What's Changed
+
+* lock-fix by [@rez1dent3](https://github.com/rez1dent3) in https://github.com/bavix/react-admin-json-view/pull/8
+
+**Full Changelog**: https://github.com/bavix/react-admin-json-view/compare/v2.1.0...v2.1.1
+
 ## v2.1.0 - 2024-04-28
 
 ### What's Changed
